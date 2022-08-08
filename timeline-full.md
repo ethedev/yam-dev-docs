@@ -4,7 +4,7 @@
 
 ### Phase #1
 
-**Title: Core Adjustments**
+**Title: Adjustments**
 
 **Timeline:**
 
@@ -14,12 +14,12 @@
     - Preparation for sdk port and yam contracts calls
 - **August 2022**
     - Update dashboard treasury data
-    - Endpoint for yam 30d avg price and display on website
+    - Yam token avg value section on website
     - Create yam sdk base and begin website integration
 
 ### Phase #2
 
-**Title: Core Modifications and Improvements**
+**Title: Modifications and Improvements**
 
 **Timeline:**
 
@@ -28,9 +28,9 @@
     - New User page
     - Finalize sdk integration and add basic testing
 - **October 2022**
-    - Continue on the website preps updates
-    - Check governance for obstacles
-    - Begin with the next stage
+    - Continue website integration updates
+    - Prepare governance security docs and graphics
+    - Prepare for and begin with the next stage
 
 # Stage B. - Core Upgrades
 
@@ -69,6 +69,7 @@
 - **Work In Progress**
     - Audit Corrections with Testing v0
     - Protocol Deployment v0
+    - Migration to V0
     - Begin Multichain Governance
     - SDK Implement Multichain
     - Website Implement Multichain
@@ -85,18 +86,18 @@
 - **Work In Progress**
     - Audit Corrections with Testing v1
     - Protocol Deployment v1
-    - Security clarifications post
-    - API Base Structure
-    - API Endpoints Connections
-    - API Data Decentralization
+    - Security posts
 
-## Q4 2023: Post V1
+## Q4 2023 and Beyond: Post V1
 
 - **Public**
     - **Snapshot:** Second Secondary Network
     - **Snapshot:** Bug Bounty
     - **New Tooling:** API, Subgraph
 - **Work In Progress**
+    - API Base Structure
+    - API Endpoints Connections
+    - API Data Decentralization
     - Subgraph Base Structure
     - SDK and API Subgraph Integration
     - Fallbacks Subgraph Integration
@@ -108,4 +109,4 @@
         - Projects
         - Onboarding
 
-***Note: Audits and Launch are happening after getting ready in full with the developments, so it is a Potential for Audits/Launch, confirmed after advancements.***
+***Note: Audits and Launch are happening after being fully ready with the developments, its a potential audit/launch, confirmed after advancements.***
