@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 # Yam Core Development Timeline
 
 # Stage A. - Core Adjustments
@@ -13,8 +20,8 @@
     - Update api for treasury data
     - Preparation for sdk port and yam contracts calls
 - **August 2022**
-    - Update dashboard treasury data
-    - Yam token avg value section on website
+    - Yam token avg value section on the website
+    - Updated token delegation section on the website
     - Create yam sdk base and begin website integration
 
 ### Phase #2
@@ -50,7 +57,7 @@
 - **Public**
     - **Yam Protocol:** Upgraded Contracts Testnet Interactions
     - **Yam Slick New Website (Testing)**
-    - **New Tooling:** SDK
+    - **New Tooling:** SDK
 - **Work In Progress**
     - Contracts Testnet Deployments and Interactions
     - New Website Base Structure
@@ -64,7 +71,7 @@
     - **Yam Protocol: Final Testing v0**
     - **Audits: Yam Protocol v0 (1/2)**
     - **Launch: Yam Protocol v0 (1/2)**
-    - **Yam Protocol:** Multichain Governance
+    - **Yam Protocol:** Multichain Governance
     - **Yam New Website Multichain Support**
 - **Work In Progress**
     - Audit Corrections with Testing v0
@@ -77,12 +84,12 @@
 ## Q3 2023: Ready V1
 
 - **Public**
-    - **Yam Protocol:** Multichain Governance Testnet Interactions
+    - **Yam Protocol:** Multichain Governance Testnet Interactions
     - **Yam Protocol: Final Testing v1**
     - **Audits: Yam Protocol v1 (2/2)**
     - **Launch: Yam Protocol v1 (2/2)**
-    - **Snapshot:** Signaling for L2 Networks
-    - **Snapshot:** First Secondary Network
+    - **Snapshot:** Signaling for L2 Networks
+    - **Snapshot:** First Secondary Network
 - **Work In Progress**
     - Audit Corrections with Testing v1
     - Protocol Deployment v1
@@ -91,9 +98,9 @@
 ## Q4 2023 and Beyond: Post V1
 
 - **Public**
-    - **Snapshot:** Second Secondary Network
-    - **Snapshot:** Bug Bounty
-    - **New Tooling:** API, Subgraph
+    - **Snapshot:** Second Secondary Network
+    - **Snapshot:** Bug Bounty
+    - **New Tooling:** API, Subgraph
 - **Work In Progress**
     - API Base Structure
     - API Endpoints Connections
