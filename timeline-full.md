@@ -14,7 +14,7 @@
 - **August 2022**
     - Yam token avg value section on the website
     - Updated token delegation section on the website
-    - Create yam sdk base and begin website integration
+    - Create the [Yam SDK](https://github.com/ethedev/yam-dev-docs/blob/master/yam-sdk.md) base and begin website integration
 - **September 2022**
     - Improved proposals load time
     - Finalize sdk integration and add basic testing
