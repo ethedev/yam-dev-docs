@@ -2,7 +2,7 @@
 
 **Description:** The Yam SDK will be one of the tools used by multiple parties and dapps, its purpose is to make developers interact with yam easier. Main use will be on the yam website for features and interactions with smart contracts, and generally for any party interested in yam read/write data.
 
-**Plan:** SDK to include everything you need related to yam, yam smart contracts interactions, with further helper functions as well to wrappers related to yam projects. It will interact programmatically with off-chain and on-chain data, with different public and private APIs, smart contracts and other tools we are building such as the yam subgraph.
+**Plan:** SDK to include everything you need related to yam and yam smart contracts interactions as in read/write functions existent on the yam developped contracts, with further helper functions as well to wrappers related to yam projects. It will interact programmatically with off-chain and on-chain data, with different public and private APIs (data and price fetching), smart contracts and other tools we are building such as the Yam API and Subgraph.
 
 1. **Development:** Development will include everything mentioned in the plan above, with documentation that will describe what functions relates to, with examples of use.
 2. **Development Testing**: Developer testing will start, through manual and unit tests.
@@ -19,16 +19,16 @@
 
 **Specifications:**
 - [ ] Base preparation
-- [ ] Structure preparation
-- [ ] Contracts and ABIs implementation
-- [ ] Standard tokens implementation
-- [ ] Subgraph integration
-- [ ] API integration
-- [ ] Wrappers preparations
+- [ ] Structure preparation, includes: Contracts and ABIs implementation (for Token, Reserves, Governor, Timelock, Migrator, etc.)
+- [ ] Tokens implementation, includes: WETH WBTC USDT USDC yUSDC DAI
+- [ ] API integration endpoints includes: General, Treasury, Token value/avg, Yam apr
+- [ ] Package deployment and release
+- [ ] Yam Projects Wrappers preparation
 - [ ] Integration assist for website
 - [ ] Development snippets examples
 - [ ] Development testing
 - [ ] Tests coverage
 - [ ] Automated testing
 - [ ] Automated releases
+- [ ] Subgraph integration
 - [ ] Documentation
