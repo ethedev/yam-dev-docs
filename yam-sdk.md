@@ -18,17 +18,20 @@
   - **Maintenance**
 
 **Specifications:**
-- [ ] Base preparation
-- [ ] Structure preparation, includes: Contracts and ABIs implementation (for Token, Reserves, Governor, Timelock, Migrator, etc.)
-- [ ] Tokens implementation, includes: WETH WBTC USDT USDC yUSDC DAI
-- [ ] API integration endpoints includes: General, Treasury, Token value/avg, Yam apr
-- [ ] Package deployment and release
-- [ ] Yam Projects Wrappers preparation
-- [ ] Integration assist for website
-- [ ] Development snippets examples
-- [ ] Development testing
-- [ ] Tests coverage
-- [ ] Automated testing
-- [ ] Automated releases
-- [ ] Subgraph integration
-- [ ] Documentation
+- Development
+  - [ ] Base preparation
+  - [ ] Structure preparation, includes: Contracts and ABIs implementation (for Token, Reserves, Governor, Timelock, Migrator, etc.)
+  - [ ] Tokens implementation, includes: WETH WBTC USDT USDC yUSDC DAI
+  - [ ] API integration endpoints includes: General, Treasury, Token value/avg, Yam apr
+  - [ ] Package deployment and release
+  - [ ] Yam Projects Wrappers preparation
+  - [ ] Integration assist for website
+- Post release
+  - [ ] Development snippets examples
+  - [ ] Development testing
+  - [ ] Tests coverage
+  - [ ] Documentation
+- Future plans
+  - [ ] Automated testing
+  - [ ] Automated releases
+  - [ ] Subgraph integration
