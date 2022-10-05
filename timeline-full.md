@@ -10,7 +10,7 @@
     - Update api for treasury data
     - Preparation for sdk port and yam contracts calls
 
-### Phase #2: **Priorities Modifications and Improvements** 📌
+### Phase #2: **Priorities Modifications and Improvements**
 - **August 2022**
     - Yam token avg value section on the website
     - Updated token delegation section on the website
@@ -20,7 +20,7 @@
     - Finalize sdk integration and add basic testing
     - Updated user page
 
-### Phase #3: **Next steps**
+### Phase #3: **Next steps** 📌
 - **October 2022**
     - Prepare governance security docs and graphics
     - Prepare for and begin with the next stage
